@@ -1,4 +1,4 @@
-<h1>Here are a list of CTF resources:</h1>
+<h1>CTF resources:</h1>
 
 <h2>Tools:</h2>
 
