@@ -4,6 +4,8 @@
 
 - [CyberChef](https://gchq.github.io/CyberChef/)
 - [Cryptii](https://cryptii.com/)
+- [Burp Suite (Community Edition)](https://portswigger.net/burp/communitydownload)
+- [OWASP Zap](https://www.zaproxy.org/)
 
 <h2>Topics:</h2>
 
@@ -18,3 +20,4 @@
 - [Hack This Site](https://www.hackthissite.org/)
 - [TryHackMe](https://tryhackme.com/)
 - [HackTheBox (HTB)](https://www.hackthebox.com/)
+- [Portswigger Web Security Academy](https://portswigger.net/web-security)
