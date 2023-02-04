@@ -12,3 +12,9 @@
 - [Web Exploitation](https://ctf101.org/web-exploitation/overview/)
 - [Cryptography](https://ctf101.org/cryptography/overview/)
 - [Forensics](https://ctf101.org/forensics/overview/)
+
+<h2> Practice Sites: </h2>
+
+- [Hack This Site](https://www.hackthissite.org/)
+- [TryHackMe](https://tryhackme.com/)
+- [HackTheBox (HTB)](https://www.hackthebox.com/)
