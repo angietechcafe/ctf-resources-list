@@ -9,7 +9,7 @@
 - [Burp Suite (Community Edition)](https://portswigger.net/burp/communitydownload)
 - [OWASP Zap](https://www.zaproxy.org/)
 - [Postman](https://www.postman.com/)
-- [RapidTables Converter](https://www.rapidtables.com/convert/number/hex-to-decimal.html)
+- [RapidTables Hexadecimal to Decimal Converter](https://www.rapidtables.com/convert/number/hex-to-decimal.html)
 - [XOR Calculator](https://xor.pw/)
 - [Reverse Text](https://www.textreverse.com/)
 
