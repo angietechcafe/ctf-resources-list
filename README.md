@@ -6,6 +6,7 @@
 - [Cryptii](https://cryptii.com/)
 - [Burp Suite (Community Edition)](https://portswigger.net/burp/communitydownload)
 - [OWASP Zap](https://www.zaproxy.org/)
+- [Postman](https://www.postman.com/)
 
 <h2>Topics:</h2>
 
