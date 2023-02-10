@@ -1,5 +1,7 @@
 <h1> 🚩CTF Resources 🚩 </h1>
 
+<p> Here is a list of CTF resources that I found helpful. </p>
+
 <h2> 💻 Tools:</h2>
 
 - [CyberChef](https://gchq.github.io/CyberChef/)
