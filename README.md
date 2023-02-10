@@ -25,3 +25,5 @@
 - [TryHackMe](https://tryhackme.com/)
 - [HackTheBox (HTB)](https://www.hackthebox.com/)
 - [Portswigger Web Security Academy](https://portswigger.net/web-security)
+- [Cyber FastTrack](https://www.cyber-fasttrack.org/)
+- [PicoCTF](https://picoctf.org/)
