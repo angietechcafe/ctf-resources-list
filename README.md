@@ -1,8 +1,8 @@
 <h1> 🚩CTF Resources 🚩 </h1>
 
-<p> Here is a list of CTF resources that I found helpful. </p>
+<h2> Here is a list of CTF resources that I found helpful. </h2>
 
-<h2> 💻 Tools:</h2>
+<h3> 💻 Tools:</h3>
 
 - [CyberChef](https://gchq.github.io/CyberChef/)
 - [Cryptii](https://cryptii.com/)
@@ -13,7 +13,7 @@
 - [XOR Calculator](https://xor.pw/)
 - [Reverse Text](https://www.textreverse.com/)
 
-<h2> ❇️ Topics:</h2>
+<h3> ❇️ Topics:</h3>
 
 - [Binary Exploitation](https://ctf101.org/binary-exploitation/overview/)
 - [Reverse Engineering](https://ctf101.org/reverse-engineering/overview/)
@@ -21,7 +21,7 @@
 - [Cryptography](https://ctf101.org/cryptography/overview/)
 - [Forensics](https://ctf101.org/forensics/overview/)
 
-<h2> 🖥 Practice Sites: </h2>
+<h3> 🖥 Practice Sites: </h3>
 
 - [Hack This Site](https://www.hackthissite.org/)
 - [TryHackMe](https://tryhackme.com/)
