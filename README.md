@@ -30,3 +30,4 @@
 - [Cyber FastTrack](https://www.cyber-fasttrack.org/)
 - [PicoCTF](https://picoctf.org/)
 - [RangeForce](https://www.rangeforce.com/)
+- [Python Exercism Track](https://exercism.org/tracks/python)
