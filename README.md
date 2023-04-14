@@ -31,3 +31,4 @@
 - [PicoCTF](https://picoctf.org/)
 - [RangeForce](https://www.rangeforce.com/)
 - [Python Exercism Track](https://exercism.org/tracks/python)
+- [x86-64 Exercism Track](https://exercism.org/tracks/x86-64-assembly)
