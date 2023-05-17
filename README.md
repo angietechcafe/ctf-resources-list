@@ -12,6 +12,7 @@
 - [RapidTables Hexadecimal to Decimal Converter](https://www.rapidtables.com/convert/number/hex-to-decimal.html)
 - [XOR Calculator](https://xor.pw/)
 - [Reverse Text](https://www.textreverse.com/)
+- [REMnux: RE Tool](https://remnux.org/)
 
 <h3> ❇️ Topics:</h3>
 
