@@ -33,3 +33,5 @@
 - [RangeForce](https://www.rangeforce.com/)
 - [Python Exercism Track](https://exercism.org/tracks/python)
 - [x86-64 Exercism Track](https://exercism.org/tracks/x86-64-assembly)
+- [Broken Azure](https://www.brokenazure.cloud/)
+- [The Big IAM AWS Challenge](https://bigiamchallenge.com/challenge/1)
