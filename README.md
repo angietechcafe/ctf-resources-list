@@ -22,7 +22,7 @@
 - [Cryptography](https://ctf101.org/cryptography/overview/)
 - [Forensics](https://ctf101.org/forensics/overview/)
 
-<h3> 🖥 Practice Sites: </h3>
+<h3> 🖥 Practice Sites and Angie's Cyber Education Medium Blogs: </h3>
 
 - [Hack This Site](https://www.hackthissite.org/)
 - [TryHackMe](https://tryhackme.com/)
@@ -36,9 +36,8 @@
 - [Broken Azure](https://www.brokenazure.cloud/)
 - [The Big IAM AWS Challenge](https://bigiamchallenge.com/challenge/1)
 - [LetsDefend](https://letsdefend.io/)
+- [Angie's Medium Tech Content Track](https://angietechcafe.medium.com/list/angies-tech-content-track-d5a0c656fa30)
 
-<h3>Angie's Cyber Education Medium Blogs</h3>
-- [Angie's Tech Content Track](https://angietechcafe.medium.com/list/angies-tech-content-track-d5a0c656fa30)
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
